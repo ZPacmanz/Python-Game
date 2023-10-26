@@ -1,7 +1,7 @@
 import pygame
 import sys
 import random
-pygame.init()
+pygame.init() #test
 rocks = pygame.image.load("rocks.png")
 goldore = pygame.image.load("goldore.png")
 
